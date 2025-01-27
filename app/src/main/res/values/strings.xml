@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map App</string>
+    <string name="search_location">Search Location</string>
+    <string name="map">Map</string>
+    <string name="transport">Transport</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="current_location">Current Location</string>
+    <string name="route">Route</string>
+    <string name="API_KEY">AIzaSyAzcoBK_4UvwA6pbK7X_51HkJ9ofSU6H-E</string>
+</resources>
